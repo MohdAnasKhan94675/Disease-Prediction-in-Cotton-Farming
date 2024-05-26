@@ -1,0 +1,1 @@
+# Disease-Prediction-in-Cotton-Farming
